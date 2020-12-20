@@ -2,3 +2,4 @@ Linha1
 Linha2
 Linha3
 Função envia e-mail
+	correcao na funcao de enviar email
